@@ -101,14 +101,15 @@
             "version": "1.9"
         }, 
         {
-            "build_date": "2020-08-20_11:44:05", 
+            "arch": "mipsle", 
+            "build_date": "2022-03-02_16:17:02", 
             "description": "kms", 
             "home_url": "Module_kms.asp", 
-            "md5": "cdd411ba1565428b69937ecba6fa7824", 
+            "md5": "5ddb37c2ce593f1ff5d976ec0c0e5431", 
             "name": "kms", 
             "tar_url": "kms/kms.tar.gz", 
             "title": "系统工具", 
-            "version": "1.5"
+            "version": "1.6"
         }, 
         {
             "build_date": "2020-08-20_11:41:43", 
