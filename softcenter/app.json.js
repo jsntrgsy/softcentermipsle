@@ -71,14 +71,15 @@
             "version": "3.8.5.5"
         }, 
         {
-            "build_date": "2021-10-06_22:57:09", 
+            "arch": "mipsle", 
+            "build_date": "2022-03-12_19:54:04", 
             "description": "linux下载利器", 
             "home_url": "Module_aria2.asp", 
-            "md5": "cd29112593a97970e904720017ef5a50", 
+            "md5": "e332c9e4b147c4568cf8dca66ccd4fa8", 
             "name": "aria2", 
             "tar_url": "aria2/aria2.tar.gz", 
             "title": "Aria2", 
-            "version": "3.0"
+            "version": "3.1"
         }, 
         {
             "build_date": "2021-03-24_19:52:21", 
@@ -102,10 +103,10 @@
         }, 
         {
             "arch": "mipsle", 
-            "build_date": "2022-03-11_16:35:12", 
+            "build_date": "2022-03-11_16:35:23", 
             "description": "kms", 
             "home_url": "Module_kms.asp", 
-            "md5": "26f2df20663a39a78831a5c25824f621", 
+            "md5": "f7502eb05654bcaf8722d961a944836a", 
             "name": "kms", 
             "tar_url": "kms/kms.tar.gz", 
             "title": "系统工具", 
