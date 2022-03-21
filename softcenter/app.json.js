@@ -103,14 +103,15 @@
             "version": "0.1"
         }, 
         {
-            "build_date": "2020-08-20_11:42:34", 
+            "arch": "mipsle", 
+            "build_date": "2022-03-21_18:55:11", 
             "description": "内网穿透利器，谁用谁知道。", 
             "home_url": "Module_frpc.asp", 
-            "md5": "2d214279c6643cfefcabef1bc12b6698", 
+            "md5": "6a9ca39e1138644c2e7c865de90f2e69", 
             "name": "frpc", 
             "tar_url": "frpc/frpc.tar.gz", 
             "title": "frpc穿透", 
-            "version": "1.9"
+            "version": "2.0"
         }, 
         {
             "arch": "mipsle", 
